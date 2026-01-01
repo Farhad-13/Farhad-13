@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently teaching a Python programming course  <br>🌱 I’m currently learning Computer Vision  <br>💬 Ask me about AI and Machine Learning  <br>📫 How to reach me: [Telegram](https://t.me/@Farhad_j13) | [LinkedIn](https://www.linkedin.com/in/farhad13)  <br>⚡ Fun fact: I really love coffee ☕  <br>
-
+🔭 I’m currently teaching a Python programming course  <br>🌱 I’m currently learning Computer Vision  <br>💬 Ask me about AI and Machine Learning  <br>📫 How to reach me: [Telegram](https://t.me/@Farhad_j13) | [LinkedIn](https://www.linkedin.com/in/farhad13) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhad13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steam.j.56@gmail.com) 
